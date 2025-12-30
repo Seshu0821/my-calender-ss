@@ -1,12 +1,12 @@
 [
-  { "id": 1, "title": "Team Standup Meeting", "date": "2025-11-04", "time": "10:00 AM", "duration": "30 mins", "color": "#1E90FF" },
-  { "id": 2, "title": "Project Presentation",  "date": "2025-11-06", "time": "2:30 PM", "duration": "1 hour", "color": "#FF6347" },
-  { "id": 3, "title": "Client Call",           "date": "2025-11-06", "time": "2:30 PM", "duration": "45 mins", "color": "#FFA500" },
-  { "id": 4, "title": "Code Review Session",   "date": "2025-11-08", "time": "4:00 PM", "duration": "1 hour", "color": "#8A2BE2" },
-  { "id": 5, "title": "Weekend Hackathon",     "date": "2025-11-15", "time": "9:00 AM", "duration": "6 hours", "color": "#32CD32" },
-  { "id": 6, "title": "Team Lunch",            "date": "2025-11-18", "time": "1:00 PM", "duration": "2 hours", "color": "#FFD700" },
-  { "id": 7, "title": "Product Demo",          "date": "2025-11-21", "time": "11:30 AM","duration": "1 hour", "color": "#FF69B4" },
-  { "id": 8, "title": "System Maintenance",    "date": "2025-11-24", "time": "12:00 AM","duration": "3 hours", "color": "#DC143C" },
-  { "id": 9, "title": "Quarterly Review",      "date": "2025-11-27", "time": "3:00 PM", "duration": "1.5 hours","color": "#00BFFF" },
-  { "id": 10,"title": "Monthly Wrap-up",       "date": "2025-11-30", "time": "5:00 PM", "duration": "1 hour", "color": "#708090" }
+  { "id": 1, "title": "Team Standup Meeting", "date": "2025-12-04", "time": "10:00 AM", "duration": "30 mins", "color": "#1E90FF" },
+  { "id": 2, "title": "Project Presentation",  "date": "2025-12-06", "time": "2:30 PM", "duration": "1 hour", "color": "#FF6347" },
+  { "id": 3, "title": "Client Call",           "date": "2025-12-06", "time": "2:30 PM", "duration": "45 mins", "color": "#FFA500" },
+  { "id": 4, "title": "Code Review Session",   "date": "2025-12-08", "time": "4:00 PM", "duration": "1 hour", "color": "#8A2BE2" },
+  { "id": 5, "title": "Weekend Hackathon",     "date": "2025-12-15", "time": "9:00 AM", "duration": "6 hours", "color": "#32CD32" },
+  { "id": 6, "title": "Team Lunch",            "date": "2025-12-18", "time": "1:00 PM", "duration": "2 hours", "color": "#FFD700" },
+  { "id": 7, "title": "Product Demo",          "date": "2025-12-21", "time": "11:30 AM","duration": "1 hour", "color": "#FF69B4" },
+  { "id": 8, "title": "System Maintenance",    "date": "2025-12-24", "time": "12:00 AM","duration": "3 hours", "color": "#DC143C" },
+  { "id": 9, "title": "Quarterly Review",      "date": "2025-12-27", "time": "3:00 PM", "duration": "1.5 hours","color": "#00BFFF" },
+  { "id": 10,"title": "Monthly Wrap-up",       "date": "2025-12-30", "time": "5:00 PM", "duration": "1 hour", "color": "#708090" }
 ]
